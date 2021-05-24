@@ -1,9 +1,10 @@
-# my_library
+# My Library
 
-Personal library management and second-hand books transaction.
+你的私人图书馆和二手书交易平台
 
 ## Getting Started
 
+使用Flutter编写。
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
